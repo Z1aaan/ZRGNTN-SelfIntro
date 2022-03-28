@@ -1,0 +1,7 @@
+.vscode/
+saves/
+cache/
+
+errors.txt
+log.txt
+traceback.txt
